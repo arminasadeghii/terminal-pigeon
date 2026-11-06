@@ -65,6 +65,3 @@ The animation targets about 20 frames per second (`time.sleep(0.05)` in `main()`
 └── README.md
 ```
 
-## License
-
-Add a license of your choice (for example MIT) before publishing.
